@@ -1,0 +1,2 @@
+STATUS_LIST: list[str] = ["pending", "in_progress", "failed", "completed"]
+DESCRIPTIONS: list[str] = ["Starts...", "Reloads...", "Stops...", "Rebuilds...", "Hashing...", "Resets...", "Give permission..."]
